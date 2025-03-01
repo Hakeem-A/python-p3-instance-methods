@@ -8,9 +8,9 @@ class Person:
         print("The person is walking.")
 
 
-guido = Person()
-guido.talk() 
-guido.walk()   
+Abdi = Person()
+Abdi.talk() 
+Abdi.walk()   
 
     #Instance method definition
     
