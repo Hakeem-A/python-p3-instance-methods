@@ -11,8 +11,9 @@ class Dog:
 
 fido = Dog()
 fido.bark()
-
-# snoopy = Dog()
-# snoopy.bark()
-
 fido.sit()
+
+
+snoopy = Dog()
+snoopy.bark()
+snoopy.sit()
